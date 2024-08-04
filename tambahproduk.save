@@ -1,0 +1,7 @@
+[*hitung_produk] adalah dereferensi dari pointer tersebut. Ini berarti kita
+mengakses nilai yang disimpan di alamat memori yang ditunjuk oleh hitung_produk
+
+(*hitung_produk)++ artinya kita menambahkan 1 pada nilai yang ada di alamat 
+memori yang ditunjuk oleh hitung_produk
+
+

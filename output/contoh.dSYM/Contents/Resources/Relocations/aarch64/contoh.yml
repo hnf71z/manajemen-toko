@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hanifabdusysyakur/Documents/cProject/output/contoh'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _addProduct, symObjAddr: 0x0, symBinAddr: 0x1000035FC, symSize: 0x15C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _addProduct, symObjAddr: 0x0, symBinAddr: 0x1000035FC, symSize: 0x15C }
+  - { offsetInCU: 0x8F, offset: 0x8F, size: 0x8, addend: 0x0, symName: _displayProducts, symObjAddr: 0x15C, symBinAddr: 0x100003758, symSize: 0x130 }
+  - { offsetInCU: 0xDD, offset: 0xDD, size: 0x8, addend: 0x0, symName: _sellProduct, symObjAddr: 0x28C, symBinAddr: 0x100003888, symSize: 0x150 }
+  - { offsetInCU: 0x12B, offset: 0x12B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3DC, symBinAddr: 0x1000039D8, symSize: 0x254 }
+...
